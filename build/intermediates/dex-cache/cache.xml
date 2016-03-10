@@ -6,42 +6,42 @@
         jumboMode="false"
         revision="23.0.2"
         sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_82f9f0bd3ee25cef6f2a44062bb2b3d4dfa0cec4.jar" />
-    </item>
-    <item
-        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_bec19e38a091733195950e9ffffb28426089b087.jar" />
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/support-annotations-23.2.0_82f9f0bd3ee25cef6f2a44062bb2b3d4dfa0cec4.jar" />
     </item>
     <item
         jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_491be22f283017d9aaf2ca361272b5b0ca2da167.jar" />
-    </item>
-    <item
-        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_947721ed69369226a226c06d3573d814f47bdcd3.jar" />
-    </item>
-    <item
-        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_c297d8191f8f071c42940182954c26e208420778.jar" />
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.0_491be22f283017d9aaf2ca361272b5b0ca2da167.jar" />
     </item>
     <item
         jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_df7592700a7d33de4204f517542fd9ba8d4496b3.jar" />
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.0_df7592700a7d33de4204f517542fd9ba8d4496b3.jar" />
+    </item>
+    <item
+        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.0_c297d8191f8f071c42940182954c26e208420778.jar" />
+    </item>
+    <item
+        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/internal_impl-23.2.0_947721ed69369226a226c06d3573d814f47bdcd3.jar" />
+    </item>
+    <item
+        jar="/Users/atan/Desktop/TC-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/atan/Desktop/TC-Android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.0_bec19e38a091733195950e9ffffb28426089b087.jar" />
     </item>
 
 </items>
