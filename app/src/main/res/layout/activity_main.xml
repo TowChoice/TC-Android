@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="towchoice.com.towchoice.MainActivity"
+    tools:context="towchoice.com.android.MainActivity"
     android:background="#b8b8b8"
     android:clickable="true">
 

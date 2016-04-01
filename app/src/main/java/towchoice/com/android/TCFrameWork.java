@@ -1,10 +1,13 @@
-package towchoice.com.towchoice;
+package towchoice.com.android;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import android.webkit.WebView;
+
+import towchoice.com.android.MainActivity;
+
 /**
  * Created by atan on 3/15/16.
  */

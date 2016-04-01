@@ -1,4 +1,4 @@
-package towchoice.com.towchoice;
+package towchoice.com.android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
